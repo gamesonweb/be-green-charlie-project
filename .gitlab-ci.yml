@@ -1,0 +1,13 @@
+pages:
+    image: node:latest
+    stage: deploy
+    script:
+     - npm install
+     - npm run build
+     - rm public/index.html
+     - cp -r dist/* public
+    artifacts:
+     paths:
+     - public
+    only:
+     - master
