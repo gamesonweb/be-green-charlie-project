@@ -8,4 +8,7 @@ VALA Sylvain - ALLARD Jeff - BEYER Astrid
 - Les touches "&","é","1","2","(" pour selectionner les graines a planter
 - La touche "f" pour tirer la graine selectionné
 # Description
-# Hebergement du jeu: https://gamesonweb.github.io/be-green-charlie-project/
+# Hebergement du jeu:
+[https://gamesonweb.github.io/be-green-charlie-project/](https://astrid-beyer.gitlab.io/projet-charlie/)
+# Code source du jeu:
+[https://gitlab.com/Astrid-Beyer/projet-charlie/](https://gitlab.com/Astrid-Beyer/projet-charlie)
