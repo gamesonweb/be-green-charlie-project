@@ -14,7 +14,7 @@ VALA Sylvain - ALLARD Jeff - BEYER Astrid
 - Le joueur se déplace en marchant et saute. Il ne dispose pas de barre de vie et meurt en un coup, réapparaît au début du niveau quand il meurt et recommence tout au bout des vies épuisées.
 - Le joueur doit lancer des graines qui font pousser des plantes pour s’en servir comme plateforme. Le joueur a un nombre limité de graines pour chaque plante mais qui se réinitialise à chaque début de monde.
 - Il y a une plante pour servir de plateforme, une qui permet de sauter haut, une comme plateforme sur l’eau, une pour grimper un mur, une pour aller d’une mur à l’autre, une pour donner du raisin qui sert comme arme légère, une pour donner des noix de Coco qui sert comme arme lourde
-## Gamedesign
+## Game Design
 - Monde 1 : la forêt, pas d’ennemis, graines de buisson et de plantes ressort, pas de Boss
 - Monde 2 : le ravin/la carrière, pas d’ennemis mais des pierres peuvent chuter, gouffres, graines de lianes et de lierre, Boss qui attaque avec bras élancé : il faut monter dessus puis sauter sur la tête au centre
 - Monde 3 : la scierie, petits robots, cours d’eau, graines de nénuphar et de raisin, Boss qui attaque à distance : il faut lancer du raisin en son cœur quand il s’arrête
