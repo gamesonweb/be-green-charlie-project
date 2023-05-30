@@ -1,5 +1,5 @@
 # Motifs unis
-- bBord rouge : murs
+- Bord rouge : murs
 - Blanc : sol (fertile)
 - Bleu : eau (mortel)
 - Noir : vide/gouffre (mortel)
