@@ -31,23 +31,36 @@ Cocotier | plante qui peut se planter dans la terre, sert a générere des munit
 - Monde 1 : la forêt, pas d’ennemis, graines de buisson et de plantes ressort, pas de Boss
 
 
-level | concepte          |  model 3D | rendu ingame
+level | concept          |  model 3D | rendu ingame
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-1 : |<img src="./drawings/niveau_1-1.png" alt="Concepte du 1ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_1_1_north_east.png" alt="model 3D du 1er niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_1_1_textured.png" alt="model ingame du 1er niveau" width="300" height="300">
-2 : |<img src="./drawings/niveau_1-2.png" alt="Concepte du 2ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_1_2_north_east.png" alt="model 3D du 2eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_1_2_textured.png" alt="model ingame du 2eme niveau" width="300" height="300">
-3 : |<img src="./drawings/niveau_1-3.png" alt="Concepte du 3ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_1_3_north_east.png" alt="model 3D du 3eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_1_3_textured.png" alt="model ingame du 3eme niveau" width="300" height="300">
-4 : |<img src="./drawings/niveau_1-4.png" alt="Concepte du 4ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_1_4_north_east.png" alt="model 3D du 4eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_1_4_textured.png" alt="model ingame du 4eme niveau" width="300" height="300">
-5 : |<img src="./drawings/niveau_1-5.png" alt="Concepte du 5ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_1_5_north_east.png" alt="model 3D du 5eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_1_5_textured.png" alt="model ingame du 5eme niveau" width="300" height="300">
+1 : |<img src="./drawings/niveau_1-1.png" alt="Concept du 1ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_1_1_north_east.png" alt="model 3D du 1er niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_1_1_textured.png" alt="model ingame du 1er niveau" width="300" height="300">
+2 : |<img src="./drawings/niveau_1-2.png" alt="Concept du 2ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_1_2_north_east.png" alt="model 3D du 2eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_1_2_textured.png" alt="model ingame du 2eme niveau" width="300" height="300">
+3 : |<img src="./drawings/niveau_1-3.png" alt="Concept du 3ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_1_3_north_east.png" alt="model 3D du 3eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_1_3_textured.png" alt="model ingame du 3eme niveau" width="300" height="300">
+4 : |<img src="./drawings/niveau_1-4.png" alt="Concept du 4ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_1_4_north_east.png" alt="model 3D du 4eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_1_4_textured.png" alt="model ingame du 4eme niveau" width="300" height="300">
+5 : |<img src="./drawings/niveau_1-5.png" alt="Concept du 5ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_1_5_north_east.png" alt="model 3D du 5eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_1_5_textured.png" alt="model ingame du 5eme niveau" width="300" height="300">
 
 - Monde 2 : le ravin/la carrière, pas d’ennemis mais des pierres peuvent chuter, gouffres, graines de lianes et de lierre, Boss qui attaque avec bras élancé : il faut monter dessus puis sauter sur la tête au centre
 
-level | concepte          |  model 3D | rendu ingame
+level | concept          |  model 3D | rendu ingame
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-1 : |<img src="./drawings/niveau_2-1.png" alt="Concepte du 1ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_2_1_north_east.png" alt="model 3D du 1er niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_2_1_textured.png" alt="model ingame du 1er niveau" width="300" height="300">
-2 : |<img src="./drawings/niveau_2-2.png" alt="Concepte du 2ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_2_2_north_east.png" alt="model 3D du 2eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_2_2_textured.png" alt="model ingame du 2eme niveau" width="300" height="300">
-3 : |<img src="./drawings/niveau_2-3.png" alt="Concepte du 3ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_2_3_north_east.png" alt="model 3D du 3eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_2_3_textured.png" alt="model ingame du 3eme niveau" width="300" height="300">
+1 : |<img src="./drawings/niveau_2-1.png" alt="Concept du 1ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_2_1_north_east.png" alt="model 3D du 1er niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_2_1_textured.png" alt="model ingame du 1er niveau" width="300" height="300">
+2 : |<img src="./drawings/niveau_2-2.png" alt="Concept du 2ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_2_2_north_east.png" alt="model 3D du 2eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_2_2_textured.png" alt="model ingame du 2eme niveau" width="300" height="300">
+3 : |<img src="./drawings/niveau_2-3.png" alt="Concept du 3ere niveau" width="300" height="300">  |  <img src="./screenshoots/levels/level_2_3_north_east.png" alt="model 3D du 3eme niveau" width="300" height="300"> | <img src="./screenshoots/levels/lvl_2_3_textured.png" alt="model ingame du 3eme niveau" width="300" height="300">
+
+level 4 | partie 1 | partie 2 | partie 3
+ :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+Niveau coupé en trois partie encore qu'a l'état de concept |<img src="./drawings/niveau_2-4a.png" alt="Concept de la 1ere partie"> | <img src="./drawings/niveau_2-4b.png" alt="Concept de la 2eme partie"> | <img src="./drawings/niveau_2-4c.png" alt="Concept de la 3eme partie">
+
+level boss | concept
+:-------------------------:|:-------------------------:
+Un niveau qui conclue le monde deux, qu'a l'état de concept | <img src="./drawings/niveau_2-boss.png" alt="Concept du niveau boss">
 
 - Monde 3 : la scierie, petits robots, cours d’eau, graines de nénuphar et de raisin, Boss qui attaque à distance : il faut lancer du raisin en son cœur quand il s’arrête
+
+level 1 concept | level 2 concept | level 3 concept | level 4 concept | level 5 concept
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="./drawings/niveau_3-1.png" alt="Concept du 1ere niveau"> | <img src="./drawings/niveau_3-2.png" alt="Concept du 2eme niveau">|<img src="./drawings/niveau_3-3.png" alt="Concept du 3eme niveau">|<img src="./drawings/niveau_3-4.png" alt="Concept du 4eme niveau">|<img src="./drawings/niveau_3-boss.png" alt="Concept du niveau boss">
+
 - Monde 4 : le centre de traitement, petits et grands robots, cours d’eau contaminée, plateformes mécaniques, graines de noix de Coco, Boss qui attaque à distance : il faut le bloquer avec des mécanismes à l’aide de petites projectiles 
 - Monde 5 : la machinerie, petit et grands robots, plateformes mécaniques, Boss final : le bloquer avec des plantes diverses puis viser la tête/le cœur de l’armure
 ## Histoire/scénario
@@ -65,7 +78,9 @@ Charlie arrive finalement à le battre, mais Kash lui fait la révélation : c�
 - Au terme du temps imparti, seul les niveaux du premier monde et les trois premiers du deuxièmes mondes ont été pleinement modélisés avec leur décor, le quatrième niveau a été modélisé mais sans éléments, le dernier niveau de monde deux et le troisième monde restent seulement à l'état de croquis, les deux autres restent à l'état de concept. Aucun boss ni ennemi n'a pu être modélisé ni dessiné même s'ils étaient prévus.
 # Hebergement du jeu:
 [https://gamesonweb.github.io/be-green-charlie-project/](https://astrid-beyer.gitlab.io/projet-charlie/)
-# Video de Gameplay commenté
+# Video de Gameplay commenté:
 https://youtu.be/EMxZdXWLT5Q
 # Code source du jeu:
 [https://gitlab.com/Astrid-Beyer/projet-charlie/](https://gitlab.com/Astrid-Beyer/projet-charlie)
+# Légende des concepts de niveau:
+[Légende qui permet de lire et de comprendre les concepts de niveau](./drawings/legende.md)
