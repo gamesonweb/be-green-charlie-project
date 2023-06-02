@@ -3,11 +3,15 @@ be-green-charlie-project created by GitHub Classroom
 # Membres
 VALA Sylvain - ALLARD Jeff - BEYER Astrid
 # Comment jouer
-- Les touches "w","a","s","d" pour les déplacement (selon l'angle de la caméra)
 - La souris pour orienter la caméra
 - La touche "Espace" pour sauter
-- Les touches "1","2","3","4","5" pour selectionner les graines a planter
 - La touche "f" pour tirer la graine selectionné
+## Si votre clavier est en azerty
+- Les touches "z","q","s","d" pour les déplacement (selon l'angle de la caméra)
+- Les touches "x","c","v","b","n" pour selectionner les graines a planter
+## Si votre clavier est en qwerty
+- Les touches "w","a","s","d" pour les déplacement (selon l'angle de la caméra)
+- Les touches "1","2","3","4","5" pour selectionner les graines a planter
 # Description
 ## Gameplay
 - Le joueur se déplace en marchant et saute. Il ne dispose pas de barre de vie et meurt en un coup, réapparaît au début du niveau quand il meurt et recommence tout au bout des vies épuisées.
